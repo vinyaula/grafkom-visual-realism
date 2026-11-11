@@ -1,0 +1,17 @@
+com\grafkom\viewing3d\HSRManager.class
+com\grafkom\viewing3d\Texture2D.class
+com\grafkom\viewing3d\Main.class
+com\grafkom\viewing3d\MeshBuilder.class
+com\grafkom\viewing3d\ShaderProgram.class
+com\grafkom\viewing3d\ShadowMapFBO.class
+com\grafkom\viewing3d\MeshBuilder$PosKey.class
+com\grafkom\viewing3d\VisualRealismApp.class
+com\grafkom\viewing3d\RenderSettings.class
+com\grafkom\viewing3d\ScreenshotUtil.class
+com\grafkom\viewing3d\Camera.class
+com\grafkom\viewing3d\FpsCounter.class
+com\grafkom\viewing3d\MeshFactory.class
+com\grafkom\viewing3d\Texture2D$FilterMode.class
+com\grafkom\viewing3d\Mesh.class
+com\grafkom\viewing3d\MeshData.class
+com\grafkom\viewing3d\Window.class
